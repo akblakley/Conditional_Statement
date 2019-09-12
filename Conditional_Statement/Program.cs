@@ -1,5 +1,5 @@
 ﻿/*
- Author: Amanda Blakly
+ Author: Amanda Blakley
  Date: 9/10/2019
  Comments: This C# console application code demonstrates the use of 
             conditional statements after getting input from users
@@ -75,7 +75,7 @@ namespace Conditional_Statement
                 {
                     Console.WriteLine("Your grade is a D-");
                 }
-                else if (grades <=eam 60)
+                else if (grades <= 60)
                 {
                     Console.WriteLine("I'm sorry, you have failed the course");
                 }
